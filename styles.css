@@ -1,0 +1,30 @@
+
+/*selector de tagname*/
+
+h1{
+    color: red;
+    font-size: 45px;
+
+}
+
+
+/*selector universal */
+*{
+    color: green;
+
+}
+
+/*selector id*/
+#palabra{
+    font-weight: normal;
+}
+
+.palabras{
+    font-weight: lighter;
+}
+
+
+.palabras2{
+    font-weight: lighter;
+    text-decoration: underline;
+}
